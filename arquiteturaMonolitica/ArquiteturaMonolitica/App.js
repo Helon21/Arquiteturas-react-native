@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import WaifuAPI from './WaifusAPI/waifus-controller';
+import WaifuAPI from './WaifusAPI/waifu-api';
 import WaifuDecoracao from './Components/decoracao';
 
 
